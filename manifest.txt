@@ -1,0 +1,11 @@
+Filename: 0-Harvard-Movielens-Project-Edx.R
+Description: Harvard-Movielens-Project-R File
+Size: 25724
+
+Filename: 1-MovieLensReport.pdf
+Description: Movielens-PDF-Report
+Size: 322759
+
+Filename: 2-MovieLensReport.Rmd
+Description: Movielens-RMD-File
+Size: 56339
